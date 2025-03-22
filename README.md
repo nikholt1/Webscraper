@@ -16,4 +16,5 @@ Webscraping with writing to SQLite
 
 
 
-
+build using webpage:
+https://realpython.com/web-scraping-with-scrapy-and-mongodb/
